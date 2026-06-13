@@ -1,0 +1,6 @@
+{
+  "name": "JohnKonstruksi",
+  "description": "Layanan konstruksi dan renovasi rumah berstandar tinggi yang kokoh, presisi, dan dibangun untuk generasi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
